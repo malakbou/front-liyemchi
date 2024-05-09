@@ -1,0 +1,216 @@
+.top_prof_div{
+    /* justify-content: center; */
+    position: relative;
+    left: 429px;
+    top: 200px;
+}
+
+
+
+/**************************** Pour les box tae adresse num telf email datenaissance ******************************/
+.adres_input{
+    width: 22%;
+    height: 37px;
+    padding-left: 50px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+    font-size: 1rem; 
+    background-color: #E6E6E6;
+    color: rgb(29, 30, 30);
+}
+
+.num_telf_input{
+    width: 22%;
+    height: 37px;
+    padding-left: 50px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+    font-size: 1rem; 
+    background-color: #E6E6E6;
+    color: rgb(29, 30, 30);
+}
+
+.emailo_input{
+    width: 22%;
+    height: 37px;
+    padding-left: 50px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-sizing: border-box;
+    font-size: 1rem; 
+    background-color: #E6E6E6;
+    color: rgb(29, 30, 30);
+}
+
+
+
+
+/**************************** Pour les text tae adresse num telf email datenaissance ******************************/
+.adres_text{
+color: aliceblue;
+position: relative;
+left: 60px;
+bottom: 40px;
+}
+
+
+.emailo_text{
+    color: aliceblue;
+    position: relative;
+    left: 50px;
+    bottom: 40px;
+}
+
+.num_telf_text{
+    color: aliceblue;
+    position: relative;
+    left: 150px;
+    bottom: 40px;
+
+}
+
+
+/**************************** Pour les bloc tae adresse email  ******************************/
+
+.email_adress_bloc{
+
+    display: inline;
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.top_prof_div{
+    /* background-color: aqua; */
+    height: 300px;
+    width: 100%;
+    position: fixed;
+    top: 110px;
+    left: 240px;
+}
+
+
+
+/********************************** POUR LES BLOC LABEL AND INPUT ***********************************/
+.emailo{
+    position: relative;
+    left: 480px;
+    margin: 20px;
+    top: 38px;
+    
+}
+
+.adres{
+    position: relative;
+    left: 90px;
+    top: 95px;
+}
+
+.num_telf{
+    position: relative;
+    left: 4px;
+    top: 90px;
+}
+
+
+.avatar{
+    background-color: aqua;
+    position: relative;
+    left: 500px;
+    bottom: 300px;
+}
+
+
+/* pour le bloc de  mot de passe */
+.ligne_orange{
+    border: none; /* Pas de bordure */
+    border-top: 2px solid #AA4021; /* Bordure supérieure */
+    margin: 230px; /* Marge supérieure et inférieure */
+    background-color: #AA4021;
+    position: relative;
+    top: 120px;
+    left: 80px;
+}
+
+.modifier_mot_passe{
+    color: #ccc;
+    position: relative;
+    top: 340px;
+    left: 310px;
+}
+
+/* pour les position des box */
+.motdepasse{
+    position: relative;
+    left: 220px;
+    margin: 20px;
+    bottom: 100px;
+}
+.new_motdepasse{
+    position: relative;
+    left: 610px;
+    margin: 20px;
+    bottom: 195px;
+}
+.confirme_motdepasse{
+    position: relative;
+    left: 187px;
+    margin: 20px;
+    bottom: 200px;
+}
+
+.confirmer_pastext{
+color: aliceblue;
+position: relative;
+left: 182px;
+bottom: 40px;
+}
+
+/* pour le key img */
+.confirme_motdepasse img{
+    position: relative;
+    left: 182px;
+    top: 39px;
+}
+.key_motdepasse img{
+    position: relative;
+    left: 150px;
+    top: 38px;
+}
+.new_motdepasse img{
+    position: relative;
+    left: 150px;
+    top: 38px;
+}
+
+/* pour le btn enregistrer */
+/******************* Pour le button login ************************/
+.enregistrer_infos{
+    height: 100px;
+    position: relative;
+    top: 50px;
+    
+    
+}
+
+.btn_enreg{
+    padding: 9px 30px; 
+    border-radius: 5px; 
+    background-color: #E87756; 
+    font-size: large;
+    color: #fff; /* Couleur du texte du bouton */
+    border: none; 
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+.btn_enreg:hover {
+    background-color: #ff9e3d; /* Changement de couleur de fond au survol */
+}
+
+.btn_enreg:focus {
+    outline: none; /* Supprime la bordure de mise au point par défaut */
+}
+

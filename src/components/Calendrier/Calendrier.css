@@ -1,0 +1,17 @@
+.event-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn-container{
+ position: relative;
+ top: 140px;
+ right: 80px;
+}
+
+.btn-event{
+  position: relative;
+  top: 70px;
+  left: 160px;
+}
+
